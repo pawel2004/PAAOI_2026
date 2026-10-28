@@ -8,5 +8,6 @@ dependencies = [
     "matplotlib",
     "scikit-image",
     "jupyter",
-    "pillow"
+    "pillow",
+    "pooch"
 ]
